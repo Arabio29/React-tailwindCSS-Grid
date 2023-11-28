@@ -32,9 +32,13 @@
 
 }
 
-.card:hover{
-  box-shadow: 2px 4px 20px rgba(255, 86, 246, 0.51);
+.card:hover {
+  box-shadow: 0 0 2px 1px rgba(64, 106, 255, 0.5),
+    0 0 2px 1px rgba(59, 172, 226, 0.5),
+    0 0 5px 2px rgba(185, 54, 238, 0.5),
+    0 0 10px 4px rgba(255, 86, 246, 0.5);
 }
+
 
 
 .gradient,

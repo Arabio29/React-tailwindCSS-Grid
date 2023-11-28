@@ -2,7 +2,10 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <div>Footer</div>
+    <div>Footer
+        <button className='btn btn-primary'></button>
+    </div>
+    
   )
 }
 
