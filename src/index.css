@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --light-0: #f8f9fa;
+  --light-1: #e9ecef;
+  --light-2: #dee2e6;
+  --dark-0: #495057;
+  --dark-1: #343a40;
+  --dark-2: #212529;
+} 
 
 .btn {
   background: linear-gradient(
