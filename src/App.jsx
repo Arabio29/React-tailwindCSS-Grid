@@ -8,11 +8,11 @@ function App() {
   return (
     <>
       <div className="h-100 bg bg-slate-950">
-      < Header />
-        < Navbar />
-        < Grid />
-        < Footer />
-        {<div className='h-[4000px]'></div>}
+        <Header />
+        <Navbar />
+        <Grid />
+        <Footer />
+        {<div className="h-[4000px]"></div>}
       </div>
     </>
   );

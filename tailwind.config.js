@@ -27,6 +27,7 @@ export default {
         site: "url('./assets/site-bg.jpg')",
         about: "url('./assets/about.png')",
         services: "url('./assets/services.png')",
+        yo: "url('./assets/forma.png')"
       },
     },
   },
